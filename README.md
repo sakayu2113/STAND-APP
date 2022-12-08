@@ -1,3 +1,3 @@
 # STAND-APP
 Stand APPのプログラムのバージョン管理用Git
-12/8 vscodeからのプッシュをテスト　(坂本)
+moulefile の中に各モジュールのクラスファイルを格納
