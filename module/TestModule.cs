@@ -7,5 +7,6 @@ class TestModule
         Console.WriteLine("hello world")
             // hogehoge
             //hogehoge 2
+            //‚ ‚ ‚ ‚ 
     }
 }
