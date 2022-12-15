@@ -8,5 +8,5 @@ class TestModule
             // hogehoge
             //hogehoge 2
             //‚ ‚ ‚ ‚ 
-    }
+    }//kaitohoge
 }
