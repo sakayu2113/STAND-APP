@@ -1,0 +1,5 @@
+C:\Users\sakay\source\repos\STANDAPP\DBtest\obj\Debug\net6.0\DBtest.csproj.AssemblyReference.cache
+C:\Users\sakay\source\repos\STANDAPP\DBtest\obj\Debug\net6.0\DBtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakay\source\repos\STANDAPP\DBtest\obj\Debug\net6.0\DBtest.AssemblyInfoInputs.cache
+C:\Users\sakay\source\repos\STANDAPP\DBtest\obj\Debug\net6.0\DBtest.AssemblyInfo.cs
+C:\Users\sakay\source\repos\STANDAPP\DBtest\obj\Debug\net6.0\DBtest.csproj.CoreCompileInputs.cache
